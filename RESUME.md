@@ -6,7 +6,6 @@
 - GitHub：<https://github.com/HangYaHan>（除个别项目外，均在公开仓库中）
 - 个人博客：<https://github.com/HangYaHan/HangYaHan.github.io>
 - 求职意向：后端开发实习生 / 嵌入式开发实习生 / 算法实习生
-- 到岗时间：6月底
 - 工作地点：上海
 - 英语：CET-6 576
 
@@ -17,15 +16,6 @@
 **华中科技大学** | 集成电路科学与工程 | 硕士 - 研究方向：光谱还原算法与系统实现 | 2024-09~2027-06
 
 **上海大学** | 微电子科学与工程 | 本科 | 2020-09~2024-06 
-
----
-
-## 技术技能
-
-- 编程语言：C / Rust / C++ / Python
-- 框架与库：PyQt5、OpenCV、Pytorch、XGBoost、Flask/FastAPI（基础）
-- 工程工具：Git、Copilot、Claude code、Linux、CMake、Makefile、Cargo、GDB、Docker
-- 其他：熟悉数据结构与算法，具备测试、文档与模块化开发习惯
 
 ---
 
@@ -74,6 +64,14 @@
 - 跨栈能力较强：覆盖 C/C++、Rust、Python 及软硬件协同场景，重视模块化与工程可维护性。
 - 具备持续复盘习惯：通过开源协作与长期博客输出，形成“记录-复盘-改进”的工作流。
 
+---
+
+## 技术技能
+
+- 编程语言：C / Rust / C++ / Python
+- 框架与库：PyQt5、OpenCV、Pytorch、XGBoost、Flask/FastAPI（基础）
+- 工程工具：Git、Copilot、Claude code、Linux、CMake、Makefile、Cargo、GDB、Docker
+- 其他：熟悉数据结构与算法，具备测试、文档与模块化开发习惯
 ---
 
 ## 附加信息
