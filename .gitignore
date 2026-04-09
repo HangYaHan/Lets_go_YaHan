@@ -32,3 +32,5 @@
 *.app
 *.in
 *.got
+/private
+*.pdf
